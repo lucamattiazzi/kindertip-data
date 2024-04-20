@@ -1,0 +1,733 @@
+{
+  "pasta con gli aromi d'estate": [
+    "pasta",
+    "primo",
+    "carboidrati"
+  ],
+  "frittata": [
+    "uova",
+    "parmigiano",
+    "secondo",
+    "proteine"
+  ],
+  "fagiolini all'olio": [
+    "fagiolini",
+    "contorno",
+    "verdura"
+  ],
+  "frutta fresca": [
+    "frutta"
+  ],
+  "pane": [
+    "pane",
+    "carboidrati"
+  ],
+  "risotto alla parmigiana": [
+    "riso",
+    "parmigiano",
+    "primo",
+    "carboidrati"
+  ],
+  "melanzane": [
+    "melanzane",
+    "verdura",
+    "contorno"
+  ],
+  "sformato di zucchine": [
+    "zucchine",
+    "secondo",
+    "verdura"
+  ],
+  "pasta al pomodoro": [
+    "pasta",
+    "pomodoro",
+    "primo",
+    "verdura",
+    "carboidrati"
+  ],
+  "crocchette di ceci": [
+    "ceci",
+    "secondo",
+    "legumi"
+  ],
+  "carote crude": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "orzo al pesto di verdure": [
+    "orzo",
+    "pesto",
+    "verdura",
+    "primo",
+    "carboidrati"
+  ],
+  "pollo al limone": [
+    "pollo",
+    "limone",
+    "secondo",
+    "carne",
+    "proteine"
+  ],
+  "patate arrosto": [
+    "patate",
+    "contorno",
+    "carboidrati"
+  ],
+  "pasta integrale con pesto di zucchine": [
+    "pasta",
+    "zucchine",
+    "pesto",
+    "primo",
+    "verdura",
+    "carboidrati"
+  ],
+  "pesce al forno": [
+    "pesce",
+    "secondo",
+    "proteine"
+  ],
+  "spinacino all'olio": [
+    "spinacino",
+    "contorno",
+    "verdura"
+  ],
+  "pane integrale": [
+    "pane",
+    "carboidrati"
+  ],
+  "ricotta o altro simile": [
+    "ricotta",
+    "proteine",
+    "formaggio"
+  ],
+  "pomodori e cetrioli": [
+    "pomodori",
+    "cetrioli",
+    "verdura",
+    "contorno"
+  ],
+  "farro con verdure": [
+    "farro",
+    "verdura",
+    "primo",
+    "carboidrati"
+  ],
+  "tacchino al forno": [
+    "tacchino",
+    "secondo",
+    "proteine"
+  ],
+  "zucchine trifolate": [
+    "zucchine",
+    "verdura",
+    "contorno"
+  ],
+  "pasta al pesto di rucola": [
+    "pasta",
+    "pesto",
+    "rucola",
+    "primo",
+    "verdura",
+    "carboidrati"
+  ],
+  "polpettine di legumi ed erbette": [
+    "legumi",
+    "erbette",
+    "secondo",
+    "proteine"
+  ],
+  "risotto con zucchine e zafferano": [
+    "riso",
+    "zucchine",
+    "zafferano",
+    "primo",
+    "verdura",
+    "carboidrati"
+  ],
+  "spinaci all'olio": [
+    "spinaci",
+    "contorno",
+    "verdura"
+  ],
+  "vellutata di patate con crostini": [
+    "patate",
+    "crostini",
+    "primo",
+    "carboidrati"
+  ],
+  "insalata di finocchi": [
+    "finocchi",
+    "verdura",
+    "contorno"
+  ],
+  "orzo alla parmigiana": [
+    "orzo",
+    "parmigiano",
+    "primo",
+    "carboidrati"
+  ],
+  "pomodorini": [
+    "pomodorini",
+    "verdura"
+  ],
+  "pasta al ragu' di carne": [
+    "pasta",
+    "ragu",
+    "carne",
+    "primo",
+    "carboidrati"
+  ],
+  "carote e cetrioli": [
+    "carote",
+    "cetrioli",
+    "verdura",
+    "contorno"
+  ],
+  "crema di lenticchie con riso": [
+    "lenticchie",
+    "riso",
+    "primo",
+    "carboidrati",
+    "legumi"
+  ],
+  "crocchette di patate e carote": [
+    "patate",
+    "carote",
+    "secondo",
+    "verdura"
+  ],
+  "pasta con crema di barbabietola": [
+    "pasta",
+    "barbabietola",
+    "primo",
+    "verdura",
+    "carboidrati"
+  ],
+  "cous cous con verdure": [
+    "cous cous",
+    "verdura",
+    "primo",
+    "carboidrati"
+  ],
+  "tortino di ricotta e spinaci": [
+    "ricotta",
+    "spinaci",
+    "secondo",
+    "verdura"
+  ],
+  "pasta gratinata al formaggio": [
+    "pasta",
+    "formaggio",
+    "primo",
+    "carboidrati"
+  ],
+  "insalata e pomodori": [
+    "insalata",
+    "pomodori",
+    "verdura",
+    "contorno"
+  ],
+  "farro con zucchine": [
+    "farro",
+    "zucchine",
+    "primo",
+    "carboidrati"
+  ],
+  "polpettine di uova e verdure": [
+    "uova",
+    "verdure",
+    "secondo",
+    "proteine"
+  ],
+  "pasta con crema di broccoli": [
+    "pasta",
+    "broccoli",
+    "primo",
+    "carboidrati"
+  ],
+  "scaloppine di pollo": [
+    "pollo",
+    "secondo",
+    "proteine"
+  ],
+  "risotto allo zafferano": [
+    "riso",
+    "zafferano",
+    "primo",
+    "carboidrati"
+  ],
+  "insalata di cannellini": [
+    "fagioli",
+    "verdura",
+    "contorno",
+    "legumi"
+  ],
+  "pasta al pesto": [
+    "pasta",
+    "pesto",
+    "primo",
+    "carboidrati"
+  ],
+  "torta compleanno": [
+    "torta",
+    "dolce"
+  ],
+  "carote crude olio e limone": [
+    "carote",
+    "limone",
+    "verdura",
+    "contorno"
+  ],
+  "banana": [
+    "banana",
+    "frutta"
+  ],
+  "polpette di legumi e verdure": [
+    "legumi",
+    "verdure",
+    "secondo",
+    "proteine"
+  ],
+  "bastoncini artigianali di pesce": [
+    "pesce",
+    "secondo",
+    "proteine"
+  ],
+  "bocconcini di tacchino allo yogurt": [
+    "tacchino",
+    "yogurt",
+    "secondo",
+    "proteine"
+  ],
+  "formaggio provola dolce": [
+    "formaggio",
+    "proteine"
+  ],
+  "frittata di porri": [
+    "porri",
+    "uova",
+    "secondo",
+    "proteine"
+  ],
+  "filetti di nasello impanati": [
+    "nasello",
+    "secondo",
+    "proteine"
+  ],
+  "melone": [
+    "melone",
+    "frutta"
+  ],
+  "minestra di cous cous": [
+    "cous cous",
+    "primo",
+    "carboidrati"
+  ],
+  "scaloppine di tacchino al limone": [
+    "tacchino",
+    "limone",
+    "secondo",
+    "proteine"
+  ],
+  "mandarino": [
+    "mandarino",
+    "frutta"
+  ],
+  "riso alla crema di piselli": [
+    "riso",
+    "piselli",
+    "primo",
+    "carboidrati"
+  ],
+  "pasta con crema ai peperoni": [
+    "pasta",
+    "peperoni",
+    "primo",
+    "carboidrati"
+  ],
+  "pizza di vitellone": [
+    "vitellone",
+    "pizza",
+    "carne"
+  ],
+  "farro al pesto": [
+    "farro",
+    "pesto",
+    "primo",
+    "carboidrati"
+  ],
+  "carote in insalata": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "polpette di merluzzo": [
+    "merluzzo",
+    "secondo",
+    "proteine"
+  ],
+  "orzo perlato agli asparagi": [
+    "orzo",
+    "asparagi",
+    "primo",
+    "carboidrati"
+  ],
+  "carote crude in insalata": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "insalata di pomodori e cetrioli": [
+    "pomodori",
+    "cetrioli",
+    "verdura",
+    "contorno"
+  ],
+  "lasagne estive (asparagi e ricotta)": [
+    "lasagne",
+    "asparagi",
+    "ricotta",
+    "primo",
+    "carboidrati",
+    "verdura"
+  ],
+  "pasta alla crema di rapa rossa": [
+    "pasta",
+    "rapa rossa",
+    "primo",
+    "carboidrati"
+  ],
+  "nasello gratinato": [
+    "nasello",
+    "secondo",
+    "proteine"
+  ],
+  "pasta integrale al pesto": [
+    "pasta",
+    "pesto",
+    "primo",
+    "carboidrati"
+  ],
+  "mela": [
+    "mela",
+    "frutta"
+  ],
+  "platessa agli agrumi": [
+    "platessa",
+    "agrumi",
+    "secondo",
+    "proteine"
+  ],
+  "brodo di verdura con pastina e lenticchie": [
+    "brodo",
+    "verdura",
+    "pastina",
+    "lenticchie",
+    "primo",
+    "carboidrati",
+    "legumi"
+  ],
+  "minestrone di verdure con pesto fresco e farro": [
+    "minestrone",
+    "verdure",
+    "pesto",
+    "farro",
+    "primo",
+    "carboidrati"
+  ],
+  "orzotto allo zafferano": [
+    "orzotto",
+    "zafferano",
+    "primo",
+    "carboidrati"
+  ],
+  "pasta integrale con crema di cavolfiore": [
+    "pasta",
+    "cavolfiore",
+    "primo",
+    "carboidrati"
+  ],
+  "carote sbollentate": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "carote crude tritate": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "pesca": [
+    "pesca",
+    "frutta"
+  ],
+  "pasta al pomodoro e piselli": [
+    "pasta",
+    "pomodoro",
+    "piselli",
+    "primo",
+    "carboidrati"
+  ],
+  "pastina in brodo con verdure": [
+    "pastina",
+    "brodo",
+    "verdure",
+    "primo",
+    "carboidrati"
+  ],
+  "minestra di riso integrale con i carciofi": [
+    "minestra",
+    "riso",
+    "carciofi",
+    "primo",
+    "carboidrati"
+  ],
+  "carote gratinate": [
+    "carote",
+    "contorno",
+    "verdura"
+  ],
+  "nasello al cartoccio": [
+    "nasello",
+    "secondo",
+    "proteine"
+  ],
+  "minestrone di verdure con riso integrale": [
+    "minestrone",
+    "verdure",
+    "riso",
+    "primo",
+    "carboidrati"
+  ],
+  "cubotti di barbabietola": [
+    "barbabietola",
+    "verdura",
+    "contorno"
+  ],
+  "platessa all'arancia": [
+    "platessa",
+    "arancia",
+    "secondo",
+    "proteine"
+  ],
+  "riso con verdure saltate": [
+    "riso",
+    "verdure",
+    "primo",
+    "carboidrati"
+  ],
+  "lasagne al forno con ragù (pollo, tacchino e fichi secchi)": [
+    "lasagne",
+    "carne",
+    "pollo",
+    "tacchino",
+    "fichi secchi",
+    "primo",
+    "carboidrati"
+  ],
+  "pastina in brodo vegetale": [
+    "pastina",
+    "brodo",
+    "primo",
+    "carboidrati"
+  ],
+  "pasta e fagioli": [
+    "pasta",
+    "fagioli",
+    "primo",
+    "carboidrati",
+    "legumi"
+  ],
+  "yogurt ai frutti": [
+    "yogurt",
+    "frutta"
+  ],
+  "purea di patate": [
+    "patate",
+    "contorno",
+    "carboidrati"
+  ],
+  "crema di zucca con crostini": [
+    "zucca",
+    "crostini",
+    "primo",
+    "carboidrati"
+  ],
+  "petto di pollo al limone": [
+    "pollo",
+    "limone",
+    "secondo",
+    "proteine"
+  ],
+  "formaggio caprino": [
+    "formaggio",
+    "proteine"
+  ],
+  "pasta al ragù di pesce": [
+    "pasta",
+    "pesce",
+    "primo",
+    "carboidrati"
+  ],
+  "cavolo viola saltato": [
+    "cavolo viola",
+    "contorno",
+    "verdura"
+  ],
+  "cavolfiori gratinati": [
+    "cavolfiori",
+    "contorno",
+    "verdura"
+  ],
+  "platessa al forno": [
+    "platessa",
+    "secondo",
+    "proteine"
+  ],
+  "fagioli cannellini in insalata": [
+    "fagioli",
+    "verdura",
+    "contorno",
+    "legumi"
+  ],
+  "pasta e piselli": [
+    "pasta",
+    "piselli",
+    "primo",
+    "carboidrati"
+  ],
+  "polenta con ragù di vitellone": [
+    "polenta",
+    "carne",
+    "vitellone",
+    "primo",
+    "carboidrati"
+  ],
+  "yougurt bianco": [
+    "yogurt"
+  ],
+  "fagiolini in insalata": [
+    "fagiolini",
+    "verdura",
+    "contorno"
+  ],
+  "pera": [
+    "pera",
+    "frutta"
+  ],
+  "carote agli aromi": [
+    "carote",
+    "verdura",
+    "contorno"
+  ],
+  "broccoletti verdi in insalata": [
+    "broccoletti",
+    "verdura",
+    "contorno"
+  ],
+  "zucchine alla menta": [
+    "zucchine",
+    "menta",
+    "verdura",
+    "contorno"
+  ],
+  "uva": [
+    "uva",
+    "frutta"
+  ],
+  "fagiolini olio e limone": [
+    "fagiolini",
+    "limone",
+    "verdura",
+    "contorno"
+  ],
+  "insalata mista": [
+    "insalata",
+    "verdura",
+    "contorno"
+  ],
+  "risotto alla pescatora": [
+    "riso",
+    "pesce",
+    "primo",
+    "carboidrati"
+  ],
+  "yogurt alla banana": [
+    "yogurt",
+    "banana",
+    "frutta"
+  ],
+  "insalata verde": [
+    "insalata",
+    "verdura",
+    "contorno"
+  ],
+  "finocchi e arancia in insalata": [
+    "finocchi",
+    "arancia",
+    "verdura",
+    "contorno"
+  ],
+  "spinaci al forno": [
+    "spinaci",
+    "contorno",
+    "verdura"
+  ],
+  "crescenza": [
+    "crescenza",
+    "proteine",
+    "formaggio"
+  ],
+  "erbette all'olio": [
+    "erbette",
+    "contorno",
+    "verdura"
+  ],
+  "cavoletti di bruxelles": [
+    "cavoletti di bruxelles",
+    "contorno",
+    "verdura"
+  ],
+  "finocchi gratinati": [
+    "finocchi",
+    "contorno",
+    "verdura"
+  ],
+  "verza julienne": [
+    "verza",
+    "contorno",
+    "verdura"
+  ],
+  "cavolo saltato": [
+    "cavolo",
+    "contorno",
+    "verdura"
+  ],
+  "zucca al forno": [
+    "zucca",
+    "contorno",
+    "verdura"
+  ],
+  "verza stufata con mele renette a pezzetti e chiodi di garofano": [
+    "verza",
+    "mela",
+    "contorno",
+    "verdura"
+  ],
+  "verza stufata con mele renette a pezzi e chiodi di garofano": [
+    "verza",
+    "mela",
+    "contorno",
+    "verdura"
+  ],
+  "insalata spinacino": [
+    "spinacino",
+    "verdura",
+    "contorno"
+  ],
+  "arancia": [
+    "arancia",
+    "frutta"
+  ]
+}

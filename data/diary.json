@@ -1,0 +1,3117 @@
+[
+  {
+    "name": "Frutta fresca",
+    "quantity": 1,
+    "date": "2023-09-19"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 1,
+    "date": "2023-09-19"
+  },
+  {
+    "name": "Nasello gratinato",
+    "quantity": 1,
+    "date": "2023-09-19"
+  },
+  {
+    "name": "Insalata verde",
+    "quantity": 4,
+    "date": "2023-09-19"
+  },
+  {
+    "name": "Frutta fresca",
+    "quantity": 1,
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Pasta alla crema di rapa rossa",
+    "quantity": 1,
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Petto di pollo al limone",
+    "quantity": 1,
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Erbette all'olio",
+    "quantity": 4,
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 3,
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-21"
+  },
+  {
+    "name": "Lasagne estive (asparagi e ricotta)",
+    "quantity": 1,
+    "date": "2023-09-21"
+  },
+  {
+    "name": "Insalata di pomodori e cetrioli",
+    "quantity": 1,
+    "date": "2023-09-21"
+  },
+  {
+    "name": "Melone",
+    "quantity": 1,
+    "date": "2023-09-21"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-22"
+  },
+  {
+    "name": "Minestra di riso integrale con i carciofi",
+    "quantity": 1,
+    "date": "2023-09-22"
+  },
+  {
+    "name": "Fagioli cannellini in insalata",
+    "quantity": 4,
+    "date": "2023-09-22"
+  },
+  {
+    "name": "Carote crude in insalata",
+    "quantity": 1,
+    "date": "2023-09-22"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-09-22"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-25"
+  },
+  {
+    "name": "Pastina in brodo con verdure",
+    "quantity": 1,
+    "date": "2023-09-25"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2023-09-25"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 4,
+    "date": "2023-09-25"
+  },
+  {
+    "name": "Uva",
+    "quantity": 4,
+    "date": "2023-09-25"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-26"
+  },
+  {
+    "name": "Orzo perlato agli asparagi",
+    "quantity": 1,
+    "date": "2023-09-26"
+  },
+  {
+    "name": "Polpette di merluzzo",
+    "quantity": 1,
+    "date": "2023-09-26"
+  },
+  {
+    "name": "Insalata verde",
+    "quantity": 4,
+    "date": "2023-09-26"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-27"
+  },
+  {
+    "name": "Pasta al pomodoro e piselli",
+    "quantity": 1,
+    "date": "2023-09-27"
+  },
+  {
+    "name": "Carote in insalata",
+    "quantity": 1,
+    "date": "2023-09-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-28"
+  },
+  {
+    "name": "Farro al pesto",
+    "quantity": 1,
+    "date": "2023-09-28"
+  },
+  {
+    "name": "Pizza di vitellone",
+    "quantity": 1,
+    "date": "2023-09-28"
+  },
+  {
+    "name": "Zucchine alla menta",
+    "quantity": 4,
+    "date": "2023-09-28"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2023-09-28"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Pasta con crema ai peperoni",
+    "quantity": 1,
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Platessa al forno",
+    "quantity": 1,
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Insalata verde",
+    "quantity": 1,
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-02"
+  },
+  {
+    "name": "Riso alla crema di piselli",
+    "quantity": 1,
+    "date": "2023-10-02"
+  },
+  {
+    "name": "Cavolfiori gratinati",
+    "quantity": 1,
+    "date": "2023-10-02"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-10-02"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-10-02"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-03"
+  },
+  {
+    "name": "Vellutata di zucchine con crostini",
+    "quantity": 1,
+    "date": "2023-10-03"
+  },
+  {
+    "name": "Petto di pollo al forno",
+    "quantity": 1,
+    "date": "2023-10-03"
+  },
+  {
+    "name": "Insalata mista",
+    "quantity": 4,
+    "date": "2023-10-03"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-04"
+  },
+  {
+    "name": "Pasta integrale con pomodoro e basilico",
+    "quantity": 1,
+    "date": "2023-10-04"
+  },
+  {
+    "name": "Merluzzo gratinato",
+    "quantity": 1,
+    "date": "2023-10-04"
+  },
+  {
+    "name": "Melanzane, zucchine e cipollotti trifolati",
+    "quantity": 4,
+    "date": "2023-10-04"
+  },
+  {
+    "name": "Pesca",
+    "quantity": 2,
+    "date": "2023-10-04"
+  },
+  {
+    "name": "Farro in insalata con verdure",
+    "quantity": 1,
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Provola",
+    "quantity": 1,
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Insalata verde",
+    "quantity": 4,
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 3,
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Purea di fagioli",
+    "quantity": 1,
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Carote crude tritate",
+    "quantity": 1,
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Pasta al pesto",
+    "quantity": 1,
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-09"
+  },
+  {
+    "name": "Pasta integrale alla crema di melanzane",
+    "quantity": 1,
+    "date": "2023-10-09"
+  },
+  {
+    "name": "Carote sbollentate",
+    "quantity": 2,
+    "date": "2023-10-09"
+  },
+  {
+    "name": "Pera",
+    "quantity": 3,
+    "date": "2023-10-09"
+  },
+  {
+    "name": "Mela",
+    "quantity": 3,
+    "date": "2023-10-10"
+  },
+  {
+    "name": "Cous cous con verdure cotte miste",
+    "quantity": 1,
+    "date": "2023-10-10"
+  },
+  {
+    "name": "Tacchino agli aromi",
+    "quantity": 1,
+    "date": "2023-10-10"
+  },
+  {
+    "name": "Spinacini crudi in insalata",
+    "quantity": 3,
+    "date": "2023-10-10"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 4,
+    "date": "2023-10-10"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-11"
+  },
+  {
+    "name": "Pasta al pomodoro e olive",
+    "quantity": 1,
+    "date": "2023-10-11"
+  },
+  {
+    "name": "Uova strapazzate",
+    "quantity": 1,
+    "date": "2023-10-11"
+  },
+  {
+    "name": "Zucchine alla menta",
+    "quantity": 1,
+    "date": "2023-10-11"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-10-11"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-10-12"
+  },
+  {
+    "name": "Riso basmati con verdure",
+    "quantity": 1,
+    "date": "2023-10-12"
+  },
+  {
+    "name": "Crocchette di ceci",
+    "quantity": 2,
+    "date": "2023-10-12"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-13"
+  },
+  {
+    "name": "Risotto con zucchine e curcuma",
+    "quantity": 1,
+    "date": "2023-10-13"
+  },
+  {
+    "name": "Platessa olio, limone e prezzemolo",
+    "quantity": 1,
+    "date": "2023-10-13"
+  },
+  {
+    "name": "Pomodori in insalata",
+    "quantity": 4,
+    "date": "2023-10-13"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-10-13"
+  },
+  {
+    "name": "Crema di lenticchie decorticate con riso integrale",
+    "quantity": 1,
+    "date": "2023-10-16"
+  },
+  {
+    "name": "Patate e fagiolini all'olio",
+    "quantity": 1,
+    "date": "2023-10-16"
+  },
+  {
+    "name": "Uva",
+    "quantity": 4,
+    "date": "2023-10-16"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-10-17"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 1,
+    "date": "2023-10-17"
+  },
+  {
+    "name": "Nasello gratinato",
+    "quantity": 1,
+    "date": "2023-10-17"
+  },
+  {
+    "name": "Insalata verde e rossa",
+    "quantity": 4,
+    "date": "2023-10-17"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2023-10-17"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Pasta alla crema di rapa rossa",
+    "quantity": 1,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Petto di pollo al limone",
+    "quantity": 3,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Erbette all'olio",
+    "quantity": 4,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 2,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Pesca",
+    "quantity": 1,
+    "date": "2023-10-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-10-19"
+  },
+  {
+    "name": "Lasagne estive (asparagi e ricotta)",
+    "quantity": 1,
+    "date": "2023-10-19"
+  },
+  {
+    "name": "Insalata di pomodori e cetrioli",
+    "quantity": 1,
+    "date": "2023-10-19"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 1,
+    "date": "2023-10-19"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-20"
+  },
+  {
+    "name": "Minestra di riso integrale con i carciofi",
+    "quantity": 2,
+    "date": "2023-10-20"
+  },
+  {
+    "name": "Fagioli cannellini in insalata",
+    "quantity": 1,
+    "date": "2023-10-20"
+  },
+  {
+    "name": "Carote crude in insalata",
+    "quantity": 1,
+    "date": "2023-10-20"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-10-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-23"
+  },
+  {
+    "name": "Pastina in brodo con verdure",
+    "quantity": 2,
+    "date": "2023-10-23"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2023-10-23"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 1,
+    "date": "2023-10-23"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2023-10-23"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-24"
+  },
+  {
+    "name": "Orzo perlato agli asparagi",
+    "quantity": 1,
+    "date": "2023-10-24"
+  },
+  {
+    "name": "Polpette di merluzzo",
+    "quantity": 1,
+    "date": "2023-10-24"
+  },
+  {
+    "name": "Insalata mista",
+    "quantity": 3,
+    "date": "2023-10-24"
+  },
+  {
+    "name": "Uva",
+    "quantity": 1,
+    "date": "2023-10-24"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-25"
+  },
+  {
+    "name": "Pasta al pomodoro e piselli",
+    "quantity": 2,
+    "date": "2023-10-25"
+  },
+  {
+    "name": "Carote in insalata",
+    "quantity": 1,
+    "date": "2023-10-25"
+  },
+  {
+    "name": "Melone",
+    "quantity": 1,
+    "date": "2023-10-25"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-10-26"
+  },
+  {
+    "name": "Farro al pesto",
+    "quantity": 1,
+    "date": "2023-10-26"
+  },
+  {
+    "name": "Pizza di vitellone",
+    "quantity": 1,
+    "date": "2023-10-26"
+  },
+  {
+    "name": "Zucchine alla menta",
+    "quantity": 4,
+    "date": "2023-10-26"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 1,
+    "date": "2023-10-26"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Pasta con crema ai peperoni",
+    "quantity": 1,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Platessa al forno",
+    "quantity": 4,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Lattughino in insalata",
+    "quantity": 4,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-10-30"
+  },
+  {
+    "name": "Riso alla crema di piselli",
+    "quantity": 1,
+    "date": "2023-10-30"
+  },
+  {
+    "name": "Cavolfiori gratinati",
+    "quantity": 4,
+    "date": "2023-10-30"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2023-10-30"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-02"
+  },
+  {
+    "name": "Crema di zucca con crostini",
+    "quantity": 4,
+    "date": "2023-11-02"
+  },
+  {
+    "name": "Crescenza",
+    "quantity": 4,
+    "date": "2023-11-02"
+  },
+  {
+    "name": "Spinaci al forno",
+    "quantity": 4,
+    "date": "2023-11-02"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 4,
+    "date": "2023-11-02"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-03"
+  },
+  {
+    "name": "Risotto allo zafferano",
+    "quantity": 1,
+    "date": "2023-11-03"
+  },
+  {
+    "name": "Filetti di nasello impanati",
+    "quantity": 1,
+    "date": "2023-11-03"
+  },
+  {
+    "name": "Broccoletti verdi in insalata",
+    "quantity": 4,
+    "date": "2023-11-03"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-11-03"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-06"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 1,
+    "date": "2023-11-06"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 4,
+    "date": "2023-11-06"
+  },
+  {
+    "name": "Banana",
+    "quantity": 3,
+    "date": "2023-11-06"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 1,
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 4,
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Melone",
+    "quantity": 1,
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-08"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 1,
+    "date": "2023-11-08"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2023-11-08"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2023-11-08"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 3,
+    "date": "2023-11-08"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Pasta integrale con crema di cavolfiore",
+    "quantity": 1,
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Frittata di porri",
+    "quantity": 1,
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-11-10"
+  },
+  {
+    "name": "Risotto alla pescatora",
+    "quantity": 3,
+    "date": "2023-11-10"
+  },
+  {
+    "name": "Cavolo viola saltato",
+    "quantity": 1,
+    "date": "2023-11-10"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-11-10"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-11-13"
+  },
+  {
+    "name": "Pasta e piselli",
+    "quantity": 3,
+    "date": "2023-11-13"
+  },
+  {
+    "name": "Cavolo saltato",
+    "quantity": 4,
+    "date": "2023-11-13"
+  },
+  {
+    "name": "Frutta fresca",
+    "quantity": 1,
+    "date": "2023-11-13"
+  },
+  {
+    "name": "Banana",
+    "quantity": 4,
+    "date": "2023-11-13"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-11-14"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 1,
+    "date": "2023-11-14"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 4,
+    "date": "2023-11-14"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 4,
+    "date": "2023-11-14"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2023-11-14"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-11-15"
+  },
+  {
+    "name": "Lasagne al forno con ragù (pollo, tacchino e fichi secchi)",
+    "quantity": 1,
+    "date": "2023-11-15"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2023-11-15"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 1,
+    "date": "2023-11-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-16"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 1,
+    "date": "2023-11-16"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 1,
+    "date": "2023-11-16"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 1,
+    "date": "2023-11-16"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2023-11-16"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-11-17"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 2,
+    "date": "2023-11-17"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2023-11-17"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 1,
+    "date": "2023-11-17"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-20"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 2,
+    "date": "2023-11-20"
+  },
+  {
+    "name": "Formaggio primo sale",
+    "quantity": 4,
+    "date": "2023-11-20"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 3,
+    "date": "2023-11-20"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-11-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-21"
+  },
+  {
+    "name": "Riso con verdure saltate",
+    "quantity": 1,
+    "date": "2023-11-21"
+  },
+  {
+    "name": "Platessa all'arancia",
+    "quantity": 4,
+    "date": "2023-11-21"
+  },
+  {
+    "name": "Purea di zucchine",
+    "quantity": 4,
+    "date": "2023-11-21"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2023-11-21"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 2,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 1,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Mela",
+    "quantity": 3,
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Orzotto allo zafferano",
+    "quantity": 1,
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Scaloppine di tacchino al limone",
+    "quantity": 1,
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Verza stufata con mele renette a pezzetti e chiodi di garofano",
+    "quantity": 4,
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 4,
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-24"
+  },
+  {
+    "name": "Pasta al ragù di pesce",
+    "quantity": 3,
+    "date": "2023-11-24"
+  },
+  {
+    "name": "Zucca al forno",
+    "quantity": 4,
+    "date": "2023-11-24"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-11-24"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-27"
+  },
+  {
+    "name": "Brodo di verdura con pastina e lenticchie",
+    "quantity": 2,
+    "date": "2023-11-27"
+  },
+  {
+    "name": "Carote agli aromi",
+    "quantity": 4,
+    "date": "2023-11-27"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-11-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-28"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 2,
+    "date": "2023-11-28"
+  },
+  {
+    "name": "Platessa agli agrumi",
+    "quantity": 2,
+    "date": "2023-11-28"
+  },
+  {
+    "name": "Verza julienne",
+    "quantity": 4,
+    "date": "2023-11-28"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2023-11-28"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-11-29"
+  },
+  {
+    "name": "Polenta con ragù di vitellone",
+    "quantity": 4,
+    "date": "2023-11-29"
+  },
+  {
+    "name": "Finocchi gratinati",
+    "quantity": 4,
+    "date": "2023-11-29"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2023-11-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-04"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 2,
+    "date": "2023-12-04"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 1,
+    "date": "2023-12-04"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-12-04"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-05"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 1,
+    "date": "2023-12-05"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2023-12-05"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 3,
+    "date": "2023-12-05"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2023-12-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 1,
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 1,
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2023-12-11"
+  },
+  {
+    "name": "Pasta e piselli",
+    "quantity": 3,
+    "date": "2023-12-11"
+  },
+  {
+    "name": "Cavolo saltato",
+    "quantity": 4,
+    "date": "2023-12-11"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-12-11"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-12"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 2,
+    "date": "2023-12-12"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 3,
+    "date": "2023-12-12"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 1,
+    "date": "2023-12-12"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2023-12-12"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-13"
+  },
+  {
+    "name": "Lasagne al forno con ragù (pollo, tacchino e fichi secchi)",
+    "quantity": 3,
+    "date": "2023-12-13"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2023-12-13"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2023-12-13"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-14"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 1,
+    "date": "2023-12-14"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 4,
+    "date": "2023-12-14"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 3,
+    "date": "2023-12-14"
+  },
+  {
+    "name": "Yougurt bianco",
+    "quantity": 3,
+    "date": "2023-12-14"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 2,
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 4,
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Cacomela",
+    "quantity": 1,
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-18"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 2,
+    "date": "2023-12-18"
+  },
+  {
+    "name": "Formaggio provola dolce",
+    "quantity": 1,
+    "date": "2023-12-18"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 3,
+    "date": "2023-12-18"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-12-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 2,
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 4,
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Yogurt alla banana",
+    "quantity": 4,
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-21"
+  },
+  {
+    "name": "Pizza",
+    "quantity": 1,
+    "date": "2023-12-21"
+  },
+  {
+    "name": "Pandoro",
+    "quantity": 1,
+    "date": "2023-12-21"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "Pasta al ragù di pesce",
+    "quantity": 2,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "Zucca al forno",
+    "quantity": 4,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-27"
+  },
+  {
+    "name": "Brodo di verdure con lenticchie",
+    "quantity": 2,
+    "date": "2023-12-27"
+  },
+  {
+    "name": "Carote sbollentate",
+    "quantity": 1,
+    "date": "2023-12-27"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2023-12-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-28"
+  },
+  {
+    "name": "Risotto allo zafferano",
+    "quantity": 1,
+    "date": "2023-12-28"
+  },
+  {
+    "name": "Filetti di nasello impanati",
+    "quantity": 1,
+    "date": "2023-12-28"
+  },
+  {
+    "name": "Broccoletti verdi in insalata",
+    "quantity": 4,
+    "date": "2023-12-28"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2023-12-28"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2023-12-29"
+  },
+  {
+    "name": "Crema di zucca con crostini",
+    "quantity": 1,
+    "date": "2023-12-29"
+  },
+  {
+    "name": "Carote crude tritate",
+    "quantity": 2,
+    "date": "2023-12-29"
+  },
+  {
+    "name": "Caprino",
+    "quantity": 1,
+    "date": "2023-12-29"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2023-12-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-02"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 1,
+    "date": "2024-01-02"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2024-01-02"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 4,
+    "date": "2024-01-02"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-01-02"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-03"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 1,
+    "date": "2024-01-03"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2024-01-03"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2024-01-03"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-01-03"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-01-04"
+  },
+  {
+    "name": "Pasta integrale con crema di cavolfiore",
+    "quantity": 1,
+    "date": "2024-01-04"
+  },
+  {
+    "name": "Frittata di porri",
+    "quantity": 1,
+    "date": "2024-01-04"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-01-04"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-01-04"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-05"
+  },
+  {
+    "name": "Risotto alla pescatora",
+    "quantity": 3,
+    "date": "2024-01-05"
+  },
+  {
+    "name": "Cavolo viola saltato",
+    "quantity": 1,
+    "date": "2024-01-05"
+  },
+  {
+    "name": "Yogurt alla banana",
+    "quantity": 4,
+    "date": "2024-01-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-08"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 2,
+    "date": "2024-01-08"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 2,
+    "date": "2024-01-08"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 4,
+    "date": "2024-01-08"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-09"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 2,
+    "date": "2024-01-09"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 1,
+    "date": "2024-01-09"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 1,
+    "date": "2024-01-09"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-01-09"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-10"
+  },
+  {
+    "name": "Lasagne al forno con ragù (pollo, tacchino e fichi secchi)",
+    "quantity": 2,
+    "date": "2024-01-10"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-01-10"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 4,
+    "date": "2024-01-10"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-11"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 3,
+    "date": "2024-01-11"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 1,
+    "date": "2024-01-11"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 3,
+    "date": "2024-01-11"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-01-11"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-12"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 2,
+    "date": "2024-01-12"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2024-01-12"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 4,
+    "date": "2024-01-12"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-01-12"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 1,
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Formaggio provola dolce",
+    "quantity": 1,
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 3,
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-01-16"
+  },
+  {
+    "name": "Riso con verdure saltate",
+    "quantity": 1,
+    "date": "2024-01-16"
+  },
+  {
+    "name": "Platessa all'arancia",
+    "quantity": 1,
+    "date": "2024-01-16"
+  },
+  {
+    "name": "Cavoletti di Bruxelles",
+    "quantity": 4,
+    "date": "2024-01-16"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-01-16"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-01-17"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 2,
+    "date": "2024-01-17"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2024-01-17"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 1,
+    "date": "2024-01-17"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-01-17"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-18"
+  },
+  {
+    "name": "Orzotto allo zafferano",
+    "quantity": 2,
+    "date": "2024-01-18"
+  },
+  {
+    "name": "Scaloppine di tacchino al limone",
+    "quantity": 1,
+    "date": "2024-01-18"
+  },
+  {
+    "name": "Verza stufata con mele renette a pezzetti e chiodi di garofano",
+    "quantity": 4,
+    "date": "2024-01-18"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-01-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-01-19"
+  },
+  {
+    "name": "Pasta al ragù di pesce",
+    "quantity": 2,
+    "date": "2024-01-19"
+  },
+  {
+    "name": "Zucca al forno",
+    "quantity": 3,
+    "date": "2024-01-19"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-01-19"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-29"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 3,
+    "date": "2024-01-29"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 4,
+    "date": "2024-01-29"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-01-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 2,
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 2,
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 4,
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-01-31"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 1,
+    "date": "2024-01-31"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2024-01-31"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2024-01-31"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-01-31"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-01"
+  },
+  {
+    "name": "Pasta integrale con crema di cavolfiore",
+    "quantity": 2,
+    "date": "2024-02-01"
+  },
+  {
+    "name": "Frittata di porri",
+    "quantity": 1,
+    "date": "2024-02-01"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-02-01"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 2,
+    "date": "2024-02-01"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-02"
+  },
+  {
+    "name": "Risotto alla pescatora",
+    "quantity": 3,
+    "date": "2024-02-02"
+  },
+  {
+    "name": "Cavolo viola saltato",
+    "quantity": 3,
+    "date": "2024-02-02"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-02-02"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-02-05"
+  },
+  {
+    "name": "Pasta e piselli",
+    "quantity": 2,
+    "date": "2024-02-05"
+  },
+  {
+    "name": "Verza",
+    "quantity": 4,
+    "date": "2024-02-05"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-02-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-06"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 2,
+    "date": "2024-02-06"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 1,
+    "date": "2024-02-06"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 1,
+    "date": "2024-02-06"
+  },
+  {
+    "name": "Pera",
+    "quantity": 4,
+    "date": "2024-02-06"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-08"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 1,
+    "date": "2024-02-08"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 1,
+    "date": "2024-02-08"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 1,
+    "date": "2024-02-08"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 2,
+    "date": "2024-02-08"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 1,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 1,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-12"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 3,
+    "date": "2024-02-12"
+  },
+  {
+    "name": "Formaggio provola dolce",
+    "quantity": 1,
+    "date": "2024-02-12"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 4,
+    "date": "2024-02-12"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-02-12"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-13"
+  },
+  {
+    "name": "Riso con verdure saltate",
+    "quantity": 2,
+    "date": "2024-02-13"
+  },
+  {
+    "name": "Platessa all'arancia",
+    "quantity": 1,
+    "date": "2024-02-13"
+  },
+  {
+    "name": "Cavoletti di Bruxelles",
+    "quantity": 4,
+    "date": "2024-02-13"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-02-13"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-14"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 1,
+    "date": "2024-02-14"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2024-02-14"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 1,
+    "date": "2024-02-14"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-02-14"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-15"
+  },
+  {
+    "name": "Orzotto allo zafferano",
+    "quantity": 2,
+    "date": "2024-02-15"
+  },
+  {
+    "name": "Scaloppine di tacchino al limone",
+    "quantity": 2,
+    "date": "2024-02-15"
+  },
+  {
+    "name": "Verza stufata con mele renette a pezzetti e chiodi di garofano",
+    "quantity": 4,
+    "date": "2024-02-15"
+  },
+  {
+    "name": "Chiacchiere",
+    "quantity": 1,
+    "date": "2024-02-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-19"
+  },
+  {
+    "name": "Brodo di verdura con pastina e lenticchie",
+    "quantity": 1,
+    "date": "2024-02-19"
+  },
+  {
+    "name": "Carote agli aromi",
+    "quantity": 1,
+    "date": "2024-02-19"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-02-19"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-20"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 1,
+    "date": "2024-02-20"
+  },
+  {
+    "name": "Platessa agli agrumi",
+    "quantity": 1,
+    "date": "2024-02-20"
+  },
+  {
+    "name": "Verza julienne",
+    "quantity": 4,
+    "date": "2024-02-20"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-02-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-21"
+  },
+  {
+    "name": "Polenta con ragù di vitellone",
+    "quantity": 3,
+    "date": "2024-02-21"
+  },
+  {
+    "name": "Finocchi gratinati",
+    "quantity": 4,
+    "date": "2024-02-21"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-02-21"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-22"
+  },
+  {
+    "name": "Risotto allo zafferano",
+    "quantity": 1,
+    "date": "2024-02-22"
+  },
+  {
+    "name": "Filetti di nasello impanati",
+    "quantity": 1,
+    "date": "2024-02-22"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 4,
+    "date": "2024-02-22"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-02-22"
+  },
+  {
+    "name": "Crema di zucca con crostini",
+    "quantity": 1,
+    "date": "2024-02-23"
+  },
+  {
+    "name": "Crescenza",
+    "quantity": 4,
+    "date": "2024-02-23"
+  },
+  {
+    "name": "Spinaci al forno",
+    "quantity": 4,
+    "date": "2024-02-23"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-02-23"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-26"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 1,
+    "date": "2024-02-26"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 1,
+    "date": "2024-02-26"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-02-26"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 1,
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 1,
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-28"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 3,
+    "date": "2024-02-28"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2024-02-28"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2024-02-28"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-02-28"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-02-29"
+  },
+  {
+    "name": "Pasta integrale con crema di cavolfiore",
+    "quantity": 2,
+    "date": "2024-02-29"
+  },
+  {
+    "name": "Frittata di porri",
+    "quantity": 1,
+    "date": "2024-02-29"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-02-29"
+  },
+  {
+    "name": "Yogurt alla banana",
+    "quantity": 2,
+    "date": "2024-02-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-01"
+  },
+  {
+    "name": "Risotto alla pescatora",
+    "quantity": 3,
+    "date": "2024-03-01"
+  },
+  {
+    "name": "Cavolo viola saltato",
+    "quantity": 4,
+    "date": "2024-03-01"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-01"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-04"
+  },
+  {
+    "name": "Pasta e piselli",
+    "quantity": 2,
+    "date": "2024-03-04"
+  },
+  {
+    "name": "Cavolo saltato",
+    "quantity": 4,
+    "date": "2024-03-04"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-04"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 2,
+    "date": "2024-03-05"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 1,
+    "date": "2024-03-05"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 1,
+    "date": "2024-03-05"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-03-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-06"
+  },
+  {
+    "name": "Lasagne al forno con ragù (pollo, tacchino e fichi secchi)",
+    "quantity": 1,
+    "date": "2024-03-06"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-03-06"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-03-06"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-03-07"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 2,
+    "date": "2024-03-07"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 1,
+    "date": "2024-03-07"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 1,
+    "date": "2024-03-07"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-08"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 1,
+    "date": "2024-03-08"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2024-03-08"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 4,
+    "date": "2024-03-08"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-08"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-11"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 1,
+    "date": "2024-03-11"
+  },
+  {
+    "name": "Formaggio provola dolce",
+    "quantity": 1,
+    "date": "2024-03-11"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 1,
+    "date": "2024-03-11"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-11"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-12"
+  },
+  {
+    "name": "Riso con verdure saltate",
+    "quantity": 3,
+    "date": "2024-03-12"
+  },
+  {
+    "name": "Platessa all'arancia",
+    "quantity": 1,
+    "date": "2024-03-12"
+  },
+  {
+    "name": "Cavoletti di Bruxelles",
+    "quantity": 4,
+    "date": "2024-03-12"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-03-12"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-13"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 1,
+    "date": "2024-03-13"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2024-03-13"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 1,
+    "date": "2024-03-13"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-03-13"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-03-14"
+  },
+  {
+    "name": "Orzotto allo zafferano",
+    "quantity": 1,
+    "date": "2024-03-14"
+  },
+  {
+    "name": "Scaloppine di tacchino al limone",
+    "quantity": 1,
+    "date": "2024-03-14"
+  },
+  {
+    "name": "Verza stufata con mele renette a pezzetti e chiodi di garofano",
+    "quantity": 4,
+    "date": "2024-03-14"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 2,
+    "date": "2024-03-14"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-15"
+  },
+  {
+    "name": "Pasta al ragù di pesce",
+    "quantity": 2,
+    "date": "2024-03-15"
+  },
+  {
+    "name": "Zucca al forno",
+    "quantity": 4,
+    "date": "2024-03-15"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-18"
+  },
+  {
+    "name": "Brodo di verdura con pastina e lenticchie",
+    "quantity": 1,
+    "date": "2024-03-18"
+  },
+  {
+    "name": "Carote agli aromi",
+    "quantity": 4,
+    "date": "2024-03-18"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-03-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-19"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 1,
+    "date": "2024-03-19"
+  },
+  {
+    "name": "Platessa agli agrumi",
+    "quantity": 1,
+    "date": "2024-03-19"
+  },
+  {
+    "name": "Verza julienne",
+    "quantity": 4,
+    "date": "2024-03-19"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-20"
+  },
+  {
+    "name": "Polenta con ragù di vitellone",
+    "quantity": 1,
+    "date": "2024-03-20"
+  },
+  {
+    "name": "Finocchi gratinati",
+    "quantity": 4,
+    "date": "2024-03-20"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 4,
+    "date": "2024-03-20"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-21"
+  },
+  {
+    "name": "Filetti di nasello impanati",
+    "quantity": 1,
+    "date": "2024-03-21"
+  },
+  {
+    "name": "Broccoletti verdi in insalata",
+    "quantity": 1,
+    "date": "2024-03-21"
+  },
+  {
+    "name": "Riso al parmiggiano",
+    "quantity": 1,
+    "date": "2024-03-21"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 4,
+    "date": "2024-03-21"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-22"
+  },
+  {
+    "name": "Crema di zucca con crostini",
+    "quantity": 1,
+    "date": "2024-03-22"
+  },
+  {
+    "name": "Crescenza",
+    "quantity": 4,
+    "date": "2024-03-22"
+  },
+  {
+    "name": "Spinaci al forno",
+    "quantity": 4,
+    "date": "2024-03-22"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-22"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-25"
+  },
+  {
+    "name": "Pasta e fagioli",
+    "quantity": 1,
+    "date": "2024-03-25"
+  },
+  {
+    "name": "Fagiolini in insalata",
+    "quantity": 4,
+    "date": "2024-03-25"
+  },
+  {
+    "name": "Mandarino",
+    "quantity": 1,
+    "date": "2024-03-25"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-26"
+  },
+  {
+    "name": "Minestra di cous cous",
+    "quantity": 1,
+    "date": "2024-03-26"
+  },
+  {
+    "name": "Bocconcini di tacchino allo yogurt",
+    "quantity": 1,
+    "date": "2024-03-26"
+  },
+  {
+    "name": "Finocchi e arancia in insalata",
+    "quantity": 4,
+    "date": "2024-03-26"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-03-26"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-27"
+  },
+  {
+    "name": "Minestrone di verdure con pesto fresco e farro",
+    "quantity": 1,
+    "date": "2024-03-27"
+  },
+  {
+    "name": "Bastoncini artigianali di pesce",
+    "quantity": 1,
+    "date": "2024-03-27"
+  },
+  {
+    "name": "Insalata spinacino",
+    "quantity": 4,
+    "date": "2024-03-27"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-27"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-28"
+  },
+  {
+    "name": "Pasta integrale con crema di cavolfiore",
+    "quantity": 1,
+    "date": "2024-03-28"
+  },
+  {
+    "name": "Frittata di porri",
+    "quantity": 1,
+    "date": "2024-03-28"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-03-28"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-03-28"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-03-29"
+  },
+  {
+    "name": "Risotto alla pescatora",
+    "quantity": 2,
+    "date": "2024-03-29"
+  },
+  {
+    "name": "Cavolo viola saltato",
+    "quantity": 1,
+    "date": "2024-03-29"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-03-29"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-02"
+  },
+  {
+    "name": "Pasta con crema di broccoli",
+    "quantity": 1,
+    "date": "2024-04-02"
+  },
+  {
+    "name": "Formaggio caprino",
+    "quantity": 1,
+    "date": "2024-04-02"
+  },
+  {
+    "name": "Cubotti di barbabietola",
+    "quantity": 1,
+    "date": "2024-04-02"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-04-02"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-03"
+  },
+  {
+    "name": "Lasagne al forno con ragù (pollo, tacchino e fichi secchi)",
+    "quantity": 1,
+    "date": "2024-04-03"
+  },
+  {
+    "name": "Carote crude olio e limone",
+    "quantity": 1,
+    "date": "2024-04-03"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-04-03"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-04-04"
+  },
+  {
+    "name": "Minestrone di verdure con riso integrale",
+    "quantity": 1,
+    "date": "2024-04-04"
+  },
+  {
+    "name": "Nasello al cartoccio",
+    "quantity": 2,
+    "date": "2024-04-04"
+  },
+  {
+    "name": "Purea di patate",
+    "quantity": 1,
+    "date": "2024-04-04"
+  },
+  {
+    "name": "Torta compleanno",
+    "quantity": 1,
+    "date": "2024-04-04"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-05"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 1,
+    "date": "2024-04-05"
+  },
+  {
+    "name": "Frittata",
+    "quantity": 1,
+    "date": "2024-04-05"
+  },
+  {
+    "name": "Spinaci all'olio",
+    "quantity": 4,
+    "date": "2024-04-05"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-04-05"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-08"
+  },
+  {
+    "name": "Pastina in brodo vegetale",
+    "quantity": 1,
+    "date": "2024-04-08"
+  },
+  {
+    "name": "Formaggio provola dolce",
+    "quantity": 1,
+    "date": "2024-04-08"
+  },
+  {
+    "name": "Fagiolini olio e limone",
+    "quantity": 4,
+    "date": "2024-04-08"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-04-08"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-04-09"
+  },
+  {
+    "name": "Riso con verdure saltate",
+    "quantity": 1,
+    "date": "2024-04-09"
+  },
+  {
+    "name": "Platessa all'arancia",
+    "quantity": 1,
+    "date": "2024-04-09"
+  },
+  {
+    "name": "Cavoletti di Bruxelles",
+    "quantity": 4,
+    "date": "2024-04-09"
+  },
+  {
+    "name": "Arancia",
+    "quantity": 4,
+    "date": "2024-04-09"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-04-10"
+  },
+  {
+    "name": "Pasta integrale al pesto",
+    "quantity": 1,
+    "date": "2024-04-10"
+  },
+  {
+    "name": "Polpette di legumi e verdure",
+    "quantity": 1,
+    "date": "2024-04-10"
+  },
+  {
+    "name": "Carote gratinate",
+    "quantity": 1,
+    "date": "2024-04-10"
+  },
+  {
+    "name": "Biscotti (senza uova e latte)",
+    "quantity": 1,
+    "date": "2024-04-10"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-11"
+  },
+  {
+    "name": "Orzotto allo zafferano",
+    "quantity": 1,
+    "date": "2024-04-11"
+  },
+  {
+    "name": "Scaloppine di tacchino al limone",
+    "quantity": 1,
+    "date": "2024-04-11"
+  },
+  {
+    "name": "Verza stufata con mele renette a pezzetti e chiodi di garofano",
+    "quantity": 4,
+    "date": "2024-04-11"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 3,
+    "date": "2024-04-11"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-15"
+  },
+  {
+    "name": "Brodo di verdura con pastina e lenticchie",
+    "quantity": 1,
+    "date": "2024-04-15"
+  },
+  {
+    "name": "Carote agli aromi",
+    "quantity": 1,
+    "date": "2024-04-15"
+  },
+  {
+    "name": "Pera",
+    "quantity": 1,
+    "date": "2024-04-15"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-16"
+  },
+  {
+    "name": "Risotto alla parmigiana",
+    "quantity": 3,
+    "date": "2024-04-16"
+  },
+  {
+    "name": "Sformato di zucchine",
+    "quantity": 4,
+    "date": "2024-04-16"
+  },
+  {
+    "name": "Melanzane",
+    "quantity": 4,
+    "date": "2024-04-16"
+  },
+  {
+    "name": "Banana",
+    "quantity": 1,
+    "date": "2024-04-16"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-17"
+  },
+  {
+    "name": "Pasta al pomodoro",
+    "quantity": 4,
+    "date": "2024-04-17"
+  },
+  {
+    "name": "Crocchette di ceci",
+    "quantity": 1,
+    "date": "2024-04-17"
+  },
+  {
+    "name": "Carote crude",
+    "quantity": 1,
+    "date": "2024-04-17"
+  },
+  {
+    "name": "Melone",
+    "quantity": 1,
+    "date": "2024-04-17"
+  },
+  {
+    "name": "Mela",
+    "quantity": 4,
+    "date": "2024-04-18"
+  },
+  {
+    "name": "Orzo al pesto di verdure",
+    "quantity": 2,
+    "date": "2024-04-18"
+  },
+  {
+    "name": "Pollo al limone",
+    "quantity": 1,
+    "date": "2024-04-18"
+  },
+  {
+    "name": "Patate arrosto",
+    "quantity": 4,
+    "date": "2024-04-18"
+  },
+  {
+    "name": "YOGURT AI FRUTTI",
+    "quantity": 1,
+    "date": "2024-04-18"
+  },
+  {
+    "name": "Mela",
+    "quantity": 1,
+    "date": "2024-04-19"
+  },
+  {
+    "name": "Pasta integrale con pesto di zucchine",
+    "quantity": 1,
+    "date": "2024-04-19"
+  },
+  {
+    "name": "Pesce al forno",
+    "quantity": 1,
+    "date": "2024-04-19"
+  },
+  {
+    "name": "Spinacino all'olio",
+    "quantity": 4,
+    "date": "2024-04-19"
+  }
+]

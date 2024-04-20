@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "kindertip-data"
+version = "0.1.0"
+description = ""
+authors = ["Luca Mattiazzi <luca.mattiazzi@illimity.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+scikit-learn = "^1.4.2"
+jupyter = "^1.0.0"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
